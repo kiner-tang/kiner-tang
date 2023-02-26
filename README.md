@@ -1,5 +1,7 @@
 # kiner-tang(汤文辉)的个人主页
 
+![Avatar](./assets/images/avatar.jpg)
+
 ## 开源数据
 
 [![kiner-tang's github stats](https://github-readme-stats.vercel.app/api?username=kiner-tang)](https://github.com/mango-lzp/github-readme-stats)
