@@ -6,6 +6,11 @@
 
 [![kiner-tang's github stats](https://github-readme-stats.vercel.app/api?username=kiner-tang)](https://github.com/mango-lzp/github-readme-stats)
 
+## 社区身份
+
+[![AntDesign](https://img.shields.io/badge/Member_Of_AntDesign-blue?logo=antdesign)](https://github.com/ant-design)
+[![OSSA](https://img.shields.io/badge/Member_Of_OSSA-orange)](https://github.com/NeteaseYanxuan/OSSA)
+
 ## 涉略领域与技能
 
 ![Typescript](https://img.shields.io/badge/-Typescript-E34F26?style=flat-square&logo=Typescript&logoColor=white)
