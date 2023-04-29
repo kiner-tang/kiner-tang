@@ -1,6 +1,6 @@
 # kiner-tang(汤文辉)的个人主页
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=kiner-tang)
+<!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=kiner-tang) -->
 ![followers](https://img.shields.io/github/followers/kiner-tang?style=social)
 
 | <img src="./assets/images/avatar.jpg" width="400" /> | <a href="https://github.com/kiner-tang"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiner-tang&locale=cn&theme=prussian&card_width=400" /></a> |
