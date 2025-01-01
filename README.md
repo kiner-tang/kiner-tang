@@ -1,4 +1,4 @@
-# kiner-tang(汤文辉)的个人主页
+# kiner-tang(星河)的个人主页
 
 <img src="./assets/images/avatar.jpg" width="400" />
 
